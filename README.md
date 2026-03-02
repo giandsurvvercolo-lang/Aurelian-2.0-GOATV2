@@ -43,7 +43,8 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)                    src="./dashboard/images/logo-non-bg.png" width="22px"> 𝗦𝗛𝗔𝗡𝗧𝗢-𝗕𝗢𝗧 - 𝗬𝗢𝗨𝗥 𝗔𝗟𝗜𝗦𝗛𝗔  𝗠𝗘𝗦𝗦𝗘𝗡𝗚𝗘𝗥 𝗖𝗛𝗔𝗧 𝗕𝗢𝗧</h1>
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)                    
+src="./dashboard/images/logo-non-bg.png" width="22px"> 𝗦𝗛𝗔𝗡𝗧𝗢-𝗕𝗢𝗧 - 𝗬𝗢𝗨𝗥 𝗔𝗟𝗜𝗦𝗛𝗔  𝗠𝗘𝗦𝗦𝗘𝗡𝗚𝗘𝗥 𝗖𝗛𝗔𝗧 𝗕𝗢𝗧</h1>
 <!-- Github README -->
 
 <p align="center"><img src="https://img.shields.io/badge/I Am %20BANGLADESHI- NOOB PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
