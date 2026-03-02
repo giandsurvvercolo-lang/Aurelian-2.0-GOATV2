@@ -1,5 +1,5 @@
-<img src="https://i.imgur.com/fjA54AK.jpeg">
-<h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> 𝐑𝐎𝐂𝐊𝐘-𝗕𝗢𝗧 - 𝐘𝐎𝐔𝐑 𝐑𝐎𝐂𝐊𝐘  𝗠𝗘𝗦𝗦𝗘𝗡𝗚𝗘𝗥 𝗖𝗛𝗔𝗧 𝗕𝗢𝗧</h1>
+<img src="https://files.catbox.moe/fbas8z.jpg">
+<h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> 𝗦𝗛𝗔𝗡𝗧𝗢-𝗕𝗢𝗧 - 𝗬𝗢𝗨𝗥 𝗔𝗟𝗜𝗦𝗛𝗔  𝗠𝗘𝗦𝗦𝗘𝗡𝗚𝗘𝗥 𝗖𝗛𝗔𝗧 𝗕𝗢𝗧</h1>
 <!-- Github README -->
 
 <p align="center"><img src="https://img.shields.io/badge/I Am %20BANGLADESHI- NOOB PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
@@ -32,7 +32,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ➪ 𝗡𝗔𝗠𝗘      : 𝐘𝐎𝐔𝐑 𝐑𝐎𝐂𝐊𝐘
+- ➪ 𝗡𝗔𝗠𝗘      : 𝗦𝗛𝗔𝗡𝗧𝗢
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
@@ -48,11 +48,11 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ➪ 𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞 :- [𝐘𝐎𝐔𝐑 𝐑𝐎𝐂𝐊𝐘](https://www.facebook.com/bd.king.riyaz.top.voicer.420)
+- ➪ 𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞 :- [𝗦𝗛𝗔𝗡𝗧𝗢 𝗔𝗛𝗠𝗘𝗗](https://www.facebook.com/profile.php?id=100089927607228)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ➪ 𝗜𝗡𝗦𝗧𝗔𝗚𝗥𝗔𝗠 :- [𝐘𝐎𝐔𝐑 𝐑𝐎𝐂𝐊𝐘](https://www.instagram.com/rocky404bot4)
+- ➪ 𝗜𝗡𝗦𝗧𝗔𝗚𝗥𝗔𝗠 :- [𝗟𝗬𝗥𝗜𝗫 𝗦𝗛𝗔𝗡𝗧𝗢](https://www.instagram.com/shanto_lyrics_1.0?igsh=MXdzcWo3Y3lqZ2d1cQ==)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
