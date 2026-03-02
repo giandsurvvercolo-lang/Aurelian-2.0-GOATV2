@@ -1,4 +1,4 @@
-<img src="https://files.catbox.moe/fbas8z.jpg">
+>
 <h1 align="center"><img 
  <h2><img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-skills.png" /><i> 𝗦𝗛𝗔𝗡𝗧𝗢 𝗦𝗞𝗜𝗟𝗟𝗔 𝗦𝗧𝗔𝗖𝗞 & 𝗗𝗘𝗕 𝗧𝗢𝗢𝗟𝗫 𝗞𝗜𝗡𝗚 𝗢𝗙 𝗩𝗜𝗥𝗧𝗨𝗔𝗟 𝗢𝗞𝗛 𝗕𝗬𝗘:</i></h2>
 
@@ -48,7 +48,7 @@
 <h1 align="center"><img 
  <h2><img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-skills.png" /><i> 𝗦𝗛𝗔𝗡𝗧𝗢-𝗕𝗢𝗧 - 𝗬𝗢𝗨𝗥 𝗔𝗟𝗜𝗦𝗛𝗔  𝗠𝗘𝗦𝗦𝗘𝗡𝗚𝗘𝗥 𝗖𝗛𝗔𝗧 𝗕𝗢𝗧</h1>
 <!-- Github README -->
-
+<img src="https://files.catbox.moe/fbas8z.jpg"
 <p align="center"><img src="https://img.shields.io/badge/I Am %20BANGLADESHI- NOOB PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
 
 </i></b></h3>
