@@ -19,15 +19,15 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61561982970881"
+    "61561982970881",
     "61582626817518"
   ],
   "premiumUsers": [
-    "61561982970881"
+    "61561982970881",
     "61582626817518"
   ],
   "devUsers": [
-    "61561982970881"
+    "61561982970881",
     "61582626817518"
   ],
   "notes_premiumUsers": "List of user IDs with premium access (role 3)",
@@ -36,7 +36,7 @@
     "enable": false,
     "whiteListIds": [
       "your wl uid",
-      "61561982970881"
+      "61561982970881",
       "61582626817518"
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds list can use the bot"
