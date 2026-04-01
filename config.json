@@ -12,7 +12,7 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "nickNameBot": "Hara",
+  "nickNameBot": "Yuto",
   "prefix": "/",
   "adminOnly": {
     "enable": false,
@@ -20,15 +20,13 @@
   },
   "adminBot": [
     "61561982970881",
-    "61582626817518"
   ],
   "premiumUsers": [
     "61561982970881",
-    "61582626817518"
+
   ],
   "devUsers": [
     "61561982970881",
-    "61582626817518"
   ],
   "notes_premiumUsers": "List of user IDs with premium access (role 3)",
   "notes_devUsers": "List of developer IDs with full access (role 4)",
@@ -37,7 +35,6 @@
     "whiteListIds": [
       "your wl uid",
       "61561982970881",
-      "61582626817518"
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds list can use the bot"
   },
