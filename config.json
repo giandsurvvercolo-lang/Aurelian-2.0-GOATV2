@@ -32,7 +32,6 @@
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "your wl uid",
       "61561982970881",
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds list can use the bot"
